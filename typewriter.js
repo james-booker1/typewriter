@@ -8,3 +8,7 @@ process.stdout.write(char);
 delay += 50
 }
 
+
+
+
+n 
